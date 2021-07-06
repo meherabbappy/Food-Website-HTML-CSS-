@@ -73,7 +73,7 @@ h4{
     color: white;
 }
 .foodmale{
-    /* padding-left: 40px; */
+   
     width: 75%;
 }
 .food1{
@@ -201,5 +201,27 @@ h4{
     color: gray;
     margin: 0px;
 }
+/* price section */
 
-
+.price-section{
+    background-image: url(../img/shapes/bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0px;
+}
+.price-container{
+display: flex;
+text-align: center;
+margin: 0px 10%;
+}
+.price-head{
+    width: 50%;
+    margin:auto;
+}
+.item{
+    text-align: center;
+    color: black;
+}
+.pp{
+    margin: 0px;
+}
