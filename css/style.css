@@ -50,7 +50,7 @@ h4{
 .nav-class ul li a{
     text-decoration: none;
     color: rgb(0, 0, 0);
-    color: white;
+    color: black;
     padding: 6px 13px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -221,6 +221,18 @@ margin: 0px 10%;
 .item{
     text-align: center;
     color: black;
+    margin:0px;
+    padding:0;
+    
+}
+.person{
+    color: rgb(255, 0, 76);
+    font-weight: bold;
+}
+.dot{
+    margin: 0px;
+    text-align: center;
+    font-weight: bold;
 }
 .pp{
     margin: 0px;
